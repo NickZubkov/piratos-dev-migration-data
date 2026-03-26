@@ -1,11 +1,7 @@
 {
-  "device_96E85ED3-AFEC-4C68-8F59-ECEFA7F8E237": {
+  "4572cf7d62bd1b710052530700defa0a41a1a53256917b509de281eb4549ff1c": {
     "user": {
       "id": 109,
-      "email": "111gj@privaterelay.appleid.com",
-      "device_id": "96E85ED3-AFEC-4C68-8F59-ECEFA7F8E237",
-      "is_guest": false,
-      "name": "Ss",
       "avatar": "female",
       "ref_code": "0Ba3Pr9",
       "from_ref_code": "6Fq2Kj0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 13,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

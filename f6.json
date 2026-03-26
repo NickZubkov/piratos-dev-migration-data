@@ -1,11 +1,7 @@
 {
-  "9mj@privaterelay.appleid.com": {
+  "f6dfcc249c6b19e8ae8e8659346386b9b5836caf3b7bfc2de89a8bf0e76b7ca1": {
     "user": {
       "id": 70,
-      "email": "9mj@privaterelay.appleid.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Ssd",
       "avatar": "female",
       "ref_code": "2Nn2Td2",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

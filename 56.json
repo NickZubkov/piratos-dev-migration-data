@@ -1,11 +1,7 @@
 {
-  "corund1976@gmail.com": {
+  "569c3d1d55efe3075ebe892c410f526dc14fc257b27d8e4c4296f2106fa537db": {
     "user": {
       "id": 25,
-      "email": "corund1976@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user2462",
       "avatar": "male",
       "ref_code": "5No6Nw2",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 61,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {
@@ -46,13 +42,9 @@
     ],
     "won_room_ids": []
   },
-  "amaterasu.dzen@gmail.com": {
+  "56d286a563d884384618bc00db39731692494738ba4f3b5862084d8ac247f4f3": {
     "user": {
       "id": 10,
-      "email": "amaterasu.dzen@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Stas97",
       "avatar": "female",
       "ref_code": "4Gf0Iq6",
       "from_ref_code": "0",
@@ -63,7 +55,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

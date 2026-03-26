@@ -1,11 +1,7 @@
 {
-  "evgrussia@gmail.com": {
+  "42b02a07b8f0207b68858758adcd64c804b3542486f025c610b8b4e8dfc570d9": {
     "user": {
       "id": 3,
-      "email": "evgrussia@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user9112",
       "avatar": "male",
       "ref_code": "4Zk7Fc7",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

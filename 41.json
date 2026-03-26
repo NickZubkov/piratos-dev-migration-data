@@ -1,11 +1,7 @@
 {
-  "admin@piratos.gg": {
+  "417884f183d276c8d3fa9263da27eb4d2761246e54fce0af5c32b19b02467751": {
     "user": {
       "id": 1,
-      "email": "admin@piratos.gg",
-      "device_id": "",
-      "is_guest": false,
-      "name": "",
       "avatar": "male",
       "ref_code": "0",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

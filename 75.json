@@ -1,1 +1,21 @@
-{}
+{
+  "758ef287d01a4dbddc6ec7a502649a2df6eec323785c8d9e74ff0298a3dfaa3f": {
+    "user": {
+      "id": 5,
+      "avatar": "male",
+      "ref_code": "4Oh7Hm5",
+      "from_ref_code": "0",
+      "coin_balance": 30990,
+      "ruby_balance": 30.0,
+      "gold_key_balance": 50,
+      "lottery_ticket_balance": 457,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

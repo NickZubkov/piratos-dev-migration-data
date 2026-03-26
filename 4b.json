@@ -1,25 +1,52 @@
 {
-  "device_56b38757d0800294f37a075ce4b0aa98": {
+  "4bbecffbc72db464fec12387ca8788f31891722bfc8732192ed0b1b82bcd63eb": {
     "user": {
-      "id": 50,
-      "email": "11@gmail.com",
-      "device_id": "56b38757d0800294f37a075ce4b0aa98",
-      "is_guest": false,
-      "name": "tttt",
-      "avatar": "female",
-      "ref_code": "9Pv3Yw9",
+      "id": 62,
+      "avatar": "male",
+      "ref_code": "WYB32W7J",
       "from_ref_code": "0",
-      "coin_balance": 100,
-      "ruby_balance": 0.0,
-      "gold_key_balance": 0,
-      "lottery_ticket_balance": 0,
+      "coin_balance": 40100,
+      "ruby_balance": 1000.0,
+      "gold_key_balance": 97,
+      "lottery_ticket_balance": 97,
       "days_count": 1,
-      "total_cp": 0,
+      "total_cp": 59,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
-    "inventory": [],
-    "chests": [],
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "gloves",
+        "level": "epic",
+        "cp": 32,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      }
+    ],
     "won_room_ids": []
   }
 }

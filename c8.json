@@ -1,11 +1,7 @@
 {
-  "device_CFFD685A-1B79-449D-8D04-138A8BADB0AB": {
+  "c88e0d5fdbb328b1f65e075015e6b92316572678df8cea73737e367a07ef1792": {
     "user": {
       "id": 65,
-      "email": "guest_CFFD618D04-138A8BADB0AB@piratos.guest",
-      "device_id": "CFFD685A-1B79-449D-8D04-138A8BADB0AB",
-      "is_guest": true,
-      "name": "Guest_CFFD685A",
       "avatar": "male",
       "ref_code": "13LAHEDY",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 14,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {
@@ -30,13 +26,9 @@
     "chests": [],
     "won_room_ids": []
   },
-  "111gj@privaterelay.appleid.com": {
+  "c838d0b58e81355b217efaf95bd5da1827b011e476691611ffb13bb4997df13a": {
     "user": {
       "id": 109,
-      "email": "111gj@privaterelay.appleid.com",
-      "device_id": "96E85ED3-AFEC-4C68-8F59-ECEFA7F8E237",
-      "is_guest": false,
-      "name": "Ss",
       "avatar": "female",
       "ref_code": "0Ba3Pr9",
       "from_ref_code": "6Fq2Kj0",
@@ -47,7 +39,7 @@
       "days_count": 1,
       "total_cp": 13,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

@@ -1,11 +1,7 @@
 {
-  "oborot16@gmail.com": {
+  "d3758484c6a5eb9b885ccaa55d50c47a3d9c992a2eea057dd7e7dfac36db5967": {
     "user": {
       "id": 6,
-      "email": "oborot16@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user1554",
       "avatar": "male",
       "ref_code": "7Kd9Hg3",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

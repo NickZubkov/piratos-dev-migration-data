@@ -1,11 +1,7 @@
 {
-  "laimer95@bk.ru": {
+  "3a0bdf3a55d91185aebdf5d573452c1e5d3ea4495e9e0b3887047b39d54fb064": {
     "user": {
       "id": 35,
-      "email": "laimer95@bk.ru",
-      "device_id": "",
-      "is_guest": false,
-      "name": "ENazarov",
       "avatar": "male",
       "ref_code": "5Ys7Xs9",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

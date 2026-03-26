@@ -1,11 +1,7 @@
 {
-  "nicktestpiratos69@gmail.com": {
+  "f7ed8dcf3d657c8f7d869551e25402c3621aa07f216539f9f659b202c10c4113": {
     "user": {
       "id": 41,
-      "email": "nicktestpiratos69@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "nick",
       "avatar": "male",
       "ref_code": "0Hg5Db7",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

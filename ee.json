@@ -1,11 +1,7 @@
 {
-  "anigma802@gmail.com": {
+  "ee92988682d85cd44743c4cb4ab861b7a30fb10509f5bf5b442addf5550d4f1a": {
     "user": {
       "id": 2,
-      "email": "anigma802@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user2440",
       "avatar": "female",
       "ref_code": "4Kk3Fq7",
       "from_ref_code": "0Cn4Yo9",
@@ -14,9 +10,9 @@
       "gold_key_balance": 1,
       "lottery_ticket_balance": 4,
       "days_count": 1,
-      "total_cp": 179,
+      "total_cp": 80,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

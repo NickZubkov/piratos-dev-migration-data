@@ -1,11 +1,7 @@
 {
-  "boh756650@gmail.com": {
+  "543070360b3301ec9280a9823f0d36547daa3c5b593fe8c921412a7c35b03253": {
     "user": {
       "id": 21,
-      "email": "boh756650@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user6755",
       "avatar": "male",
       "ref_code": "6Fx1Kq1",
       "from_ref_code": "3Kl3Aw5",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

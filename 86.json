@@ -1,11 +1,7 @@
 {
-  "mv@gmail.com": {
+  "866ba2684396f08ac160ebb78a3d7b1be1ef0fc472a256e9b2594eb1f9144dcd": {
     "user": {
       "id": 48,
-      "email": "mv@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "udududu",
       "avatar": "female",
       "ref_code": "1Jd1Fm5",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

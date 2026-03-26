@@ -1,11 +1,7 @@
 {
-  "device_40224FCE-CC81-4A80-A857-84DC566545A7": {
+  "a5902d546d784906149ce542125a65e18e92ea120104735caeceba63cbba2bd9": {
     "user": {
       "id": 69,
-      "email": "guest_4A857-8545A7@piratos.guest",
-      "device_id": "40224FCE-CC81-4A80-A857-84DC566545A7",
-      "is_guest": true,
-      "name": "Guest_40224FCE",
       "avatar": "male",
       "ref_code": "1UV2T4C6",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

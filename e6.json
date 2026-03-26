@@ -1,11 +1,7 @@
 {
-  "kamillasahabutdinova14@gmail.com": {
+  "e6945b31324ef5769016525bae6eec283cbc09b278ce5bf6de83611e057d0364": {
     "user": {
       "id": 22,
-      "email": "kamillasahabutdinova14@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user6775",
       "avatar": "male",
       "ref_code": "3Hs4Dg3",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

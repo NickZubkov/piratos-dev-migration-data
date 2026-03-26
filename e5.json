@@ -1,11 +1,7 @@
 {
-  "ilnurmukhtov@gmail.com": {
+  "e5628fb1db5a2adaaf963d8e11eb7a0c2261a6079e477fc959d4210c422ed153": {
     "user": {
       "id": 23,
-      "email": "ilnurmukhtov@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "1",
       "avatar": "male",
       "ref_code": "8Hy2Ku9",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

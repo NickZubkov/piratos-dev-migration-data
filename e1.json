@@ -1,22 +1,18 @@
 {
-  "device_6AA52FF9-1D6F-4328-A4E6-8C36882C6746": {
+  "e1a04cb8068ef6eb8691afe43fdf7e64626a281091d0f9657dc617e013856dfc": {
     "user": {
-      "id": 113,
-      "email": "9m2rjyg9gj@privaterelay.appleid.com",
-      "device_id": "6AA52FF9-1D6F-4328-A4E6-8C36882C6746",
-      "is_guest": false,
-      "name": "Ssss",
-      "avatar": "female",
-      "ref_code": "7Nq5Jz6",
-      "from_ref_code": "5Ep5Vn3",
-      "coin_balance": 50200,
-      "ruby_balance": 100.0,
-      "gold_key_balance": 100,
-      "lottery_ticket_balance": 100,
+      "id": 112,
+      "avatar": "male",
+      "ref_code": "0EJ9VNRR",
+      "from_ref_code": "0",
+      "coin_balance": 100,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

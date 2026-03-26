@@ -1,11 +1,7 @@
 {
-  "9m1j@privaterelay.appleid.com": {
+  "ac34dfcfdc9346615f2326ebc76d47f824b08ac1251addcb1d85d9fc44063b45": {
     "user": {
       "id": 68,
-      "email": "9m1j@privaterelay.appleid.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Hddh",
       "avatar": "female",
       "ref_code": "9Br4Nh8",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

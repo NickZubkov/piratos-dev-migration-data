@@ -1,1 +1,29 @@
-{}
+{
+  "8214e68c8069345692f07cf818e15f437d177a8258f110b593208e367aaa2968": {
+    "user": {
+      "id": 105,
+      "avatar": "female",
+      "ref_code": "6Wg5Sj2",
+      "from_ref_code": "0",
+      "coin_balance": 300,
+      "ruby_balance": 100.0,
+      "gold_key_balance": 97,
+      "lottery_ticket_balance": 99,
+      "days_count": 1,
+      "total_cp": 13,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

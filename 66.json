@@ -1,1 +1,21 @@
-{}
+{
+  "66a99372ea2d2a530d1aaa5d51d9b4762690ab39e57d4335b4d411a3a9a61289": {
+    "user": {
+      "id": 52,
+      "avatar": "female",
+      "ref_code": "0Qs0Ga5",
+      "from_ref_code": "0",
+      "coin_balance": 200,
+      "ruby_balance": 100.0,
+      "gold_key_balance": 98,
+      "lottery_ticket_balance": 199,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

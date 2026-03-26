@@ -1,11 +1,7 @@
 {
-  "opensuse12@gmail.com": {
+  "1832974e58fab350bba77578521fce158275ac87f7aa02604e4af68bca04cc6c": {
     "user": {
       "id": 115,
-      "email": "opensuse12@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "jok4r",
       "avatar": "male",
       "ref_code": "5Fv4Pz8",
       "from_ref_code": "0",
@@ -14,9 +10,9 @@
       "gold_key_balance": 3,
       "lottery_ticket_balance": 5,
       "days_count": 1,
-      "total_cp": 31,
+      "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

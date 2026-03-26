@@ -1,11 +1,7 @@
 {
-  "muhtov@gmail.com": {
+  "47d1a8e498e7f64a5e4feaa98e32a3c09624926bc90d29db9c9c8cf552458ba0": {
     "user": {
       "id": 114,
-      "email": "muhtov@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "gy",
       "avatar": "female",
       "ref_code": "9Vr7Hi1",
       "from_ref_code": "0",
@@ -14,9 +10,9 @@
       "gold_key_balance": 59,
       "lottery_ticket_balance": 94,
       "days_count": 1,
-      "total_cp": 144,
+      "total_cp": 108,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

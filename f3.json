@@ -1,11 +1,7 @@
 {
-  "9sadasdasdasdasdj@privaterelay.appleid.com": {
+  "f3e77d651177ea6c4203a6e6e3e5af7d4292ec9f6e57b079894000ecf691a1de": {
     "user": {
       "id": 66,
-      "email": "9sadasdasdasdasdj@privaterelay.appleid.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Cut",
       "avatar": "female",
       "ref_code": "9Ve1Te6",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

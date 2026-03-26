@@ -1,11 +1,7 @@
 {
-  "device_F69216A5-0F82-4FFE-B9B7-648F136D569E": {
+  "9237aaeba3d6a58f2c34f4fe5f6bf88a8b093005569fd0aa151f0bfbaa594051": {
     "user": {
       "id": 67,
-      "email": "guest_B9B7-648F136D569E@piratos.guest",
-      "device_id": "F69216A5-0F82-4FFE-B9B7-648F136D569E",
-      "is_guest": true,
-      "name": "Guest_F69216A5",
       "avatar": "male",
       "ref_code": "NGNCB8V8",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

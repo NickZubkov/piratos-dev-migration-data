@@ -1,11 +1,7 @@
 {
-  "muov@gmail.com": {
+  "e83584e9ef60ecaa58cbd4c649123d3181cc9ade3e4d816609feaf6834e39d07": {
     "user": {
       "id": 47,
-      "email": "muov@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "ssss",
       "avatar": "male",
       "ref_code": "2Ou7If0",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

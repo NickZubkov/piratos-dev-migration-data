@@ -1,1 +1,59 @@
-{}
+{
+  "1e505f92bab2d1bacaaf258ee3bd4cac331a3ff73db7b4b6278cfba2f64656bf": {
+    "user": {
+      "id": 63,
+      "avatar": "female",
+      "ref_code": "3Ul7Rl5",
+      "from_ref_code": "0",
+      "coin_balance": 15200,
+      "ruby_balance": 905.0,
+      "gold_key_balance": 89,
+      "lottery_ticket_balance": 97,
+      "days_count": 1,
+      "total_cp": 127,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "gloves",
+        "level": "epic",
+        "cp": 32,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "sword",
+        "level": "legendary",
+        "cp": 68,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      }
+    ],
+    "won_room_ids": []
+  }
+}

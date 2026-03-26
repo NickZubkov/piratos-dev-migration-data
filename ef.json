@@ -1,1 +1,53 @@
-{}
+{
+  "ef122ecdac5fa8be9bb1941a9702c4a17ed26ea6cf7f07659c511572b1f75494": {
+    "user": {
+      "id": 57,
+      "avatar": "female",
+      "ref_code": "6Ki5Qo1",
+      "from_ref_code": "0",
+      "coin_balance": 11877,
+      "ruby_balance": 100.0,
+      "gold_key_balance": 91,
+      "lottery_ticket_balance": 80,
+      "days_count": 1,
+      "total_cp": 55,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 3,
+        "is_equip": true
+      },
+      {
+        "type": "trousers",
+        "level": "legendary",
+        "cp": 42,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "uncommon",
+          "price": 2,
+          "currency": "key"
+        },
+        "count": 1
+      },
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      }
+    ],
+    "won_room_ids": []
+  }
+}

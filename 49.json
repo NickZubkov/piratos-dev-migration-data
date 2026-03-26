@@ -1,11 +1,7 @@
 {
-  "nc5wns4hwg@privaterelay.appleid.com": {
+  "4980eb85c3aabfabfd2932c0872b3cf12b2171bf6018773045b32461cf0df214": {
     "user": {
       "id": 34,
-      "email": "nc5wns4hwg@privaterelay.appleid.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user9408",
       "avatar": "male",
       "ref_code": "1Qa3Dt8",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

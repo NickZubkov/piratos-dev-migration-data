@@ -1,1 +1,53 @@
-{}
+{
+  "3eb254eff38f08f183bac6442b235c8e6f611390432b3797640236f4b29fb0ec": {
+    "user": {
+      "id": 107,
+      "avatar": "female",
+      "ref_code": "5Ep5Vn4",
+      "from_ref_code": "0",
+      "coin_balance": 10100,
+      "ruby_balance": 48250.0,
+      "gold_key_balance": 10,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "shirt",
+        "level": "epic",
+        "cp": 27,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "shirt",
+        "level": "legendary",
+        "cp": 49,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      },
+      {
+        "chest": {
+          "type": "legendary",
+          "price": 10,
+          "currency": "key"
+        },
+        "count": 1
+      }
+    ],
+    "won_room_ids": []
+  }
+}

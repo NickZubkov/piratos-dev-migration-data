@@ -1,11 +1,7 @@
 {
-  "muhtov1@gmail.com": {
+  "bb6155b7a8ed7c933409ec60ab75949caa8f5fdc9332d315b28c0ee9d637f8a9": {
     "user": {
       "id": 13,
-      "email": "muhtov1@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user6313",
       "avatar": "male",
       "ref_code": "3Kl3Aw5",
       "from_ref_code": "0",
@@ -14,9 +10,9 @@
       "gold_key_balance": 423,
       "lottery_ticket_balance": 169,
       "days_count": 1,
-      "total_cp": 1002,
+      "total_cp": 226,
       "additional_cp": 45,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {
@@ -188,13 +184,9 @@
     ],
     "won_room_ids": []
   },
-  "piratosmobile@piratos.gg": {
+  "bb7b7adc6058ecb563253c629713a11859e0804d2a9d8c7508a8f68c24a12984": {
     "user": {
       "id": 9,
-      "email": "piratosmobile@piratos.gg",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user9772",
       "avatar": "male",
       "ref_code": "5Lm7Nq5",
       "from_ref_code": "1Qa1Mk2",
@@ -203,9 +195,9 @@
       "gold_key_balance": 100,
       "lottery_ticket_balance": 100,
       "days_count": 1,
-      "total_cp": 21,
+      "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

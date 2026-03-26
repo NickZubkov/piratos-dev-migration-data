@@ -1,11 +1,7 @@
 {
-  "arteom.yurash@gmail.com": {
+  "e269922c3d4817a8eb3c08b38bfcffb5d8ed8ab768da902c78d6e64b79067499": {
     "user": {
       "id": 7,
-      "email": "arteom.yurash@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "user8891",
       "avatar": "male",
       "ref_code": "4Gj9Me4",
       "from_ref_code": "0",
@@ -14,9 +10,9 @@
       "gold_key_balance": 0,
       "lottery_ticket_balance": 1,
       "days_count": 1,
-      "total_cp": 22,
+      "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [
       {

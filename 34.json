@@ -1,11 +1,7 @@
 {
-  "device_FCA5914F-D294-4B83-841F-5EE6E304513D": {
+  "344046db393e9193494d4c1c9f04bb59d256d1381a8e092d10228843472089ff": {
     "user": {
       "id": 71,
-      "email": "test_FCA5914F-D294-4B83-841F-5EE6E304513D@piratos.guest",
-      "device_id": "FCA5914F-D294-4B83-841F-5EE6E304513D",
-      "is_guest": true,
-      "name": "Guest_FCA5914F",
       "avatar": "male",
       "ref_code": "H943QHOW",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

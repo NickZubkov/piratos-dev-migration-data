@@ -1,11 +1,7 @@
 {
-  "zubk0vna31@gmail.com": {
+  "ecce327c85c0bdd4da84516b5cc76e69f91e79a6f9484850784849d0a849b469": {
     "user": {
       "id": 55,
-      "email": "zubk0vna31@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "nick",
       "avatar": "male",
       "ref_code": "3Mc1Zi3",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

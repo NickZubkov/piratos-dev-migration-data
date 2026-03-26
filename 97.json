@@ -1,11 +1,7 @@
 {
-  "test@example.com": {
+  "973dfe463ec85785f5f95af5ba3906eedb2d931c24e69824a89ea65dba4e813b": {
     "user": {
       "id": 39,
-      "email": "test@example.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Test User",
       "avatar": "male",
       "ref_code": "0",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

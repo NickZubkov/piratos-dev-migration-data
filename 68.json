@@ -1,11 +1,7 @@
 {
-  "5mf2tnc9mm@privaterelay.appleid.com": {
+  "685b02c84544b2dd92a57bb927a6a0ba592c96a8a5270962d438805a2edc9d51": {
     "user": {
       "id": 38,
-      "email": "5mf2tnc9mm@privaterelay.appleid.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "jok4r",
       "avatar": "male",
       "ref_code": "9Cd5Ee9",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

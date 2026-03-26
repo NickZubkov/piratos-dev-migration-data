@@ -1,11 +1,7 @@
 {
-  "test1@gmail.com": {
+  "a295fa4e457ca8c72751ffb6196f34b2349dcd91443b8c70ad76082d30dbdcd9": {
     "user": {
       "id": 72,
-      "email": "test1@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "333",
       "avatar": "female",
       "ref_code": "7Hy2Dn9",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

@@ -1,11 +1,7 @@
 {
-  "11@gmail.com": {
+  "743c7dd9d2a895e170fd56e860daa3abf1abd46ec549399366582e7a4c7da3af": {
     "user": {
       "id": 50,
-      "email": "11@gmail.com",
-      "device_id": "56b38757d0800294f37a075ce4b0aa98",
-      "is_guest": false,
-      "name": "tttt",
       "avatar": "female",
       "ref_code": "9Pv3Yw9",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],

@@ -1,11 +1,7 @@
 {
-  "yourdreamscat@gmail.com": {
+  "33c966ed297bacdd4489ec0c46b65be7c19842d8aee86e1439b8e2e5d534d67c": {
     "user": {
       "id": 24,
-      "email": "yourdreamscat@gmail.com",
-      "device_id": "",
-      "is_guest": false,
-      "name": "Миша",
       "avatar": "male",
       "ref_code": "6Kp1Pn8",
       "from_ref_code": "0",
@@ -16,7 +12,7 @@
       "days_count": 1,
       "total_cp": 0,
       "additional_cp": 0,
-      "max_total_cp": 1349
+      "max_total_cp": 432
     },
     "inventory": [],
     "chests": [],
