@@ -1,0 +1,25 @@
+{
+  "muhtov12312312312@gmail.com": {
+    "user": {
+      "id": 61,
+      "email": "muhtov12312312312@gmail.com",
+      "device_id": "56b38757d0800294f37a075ce4b0aa98",
+      "is_guest": false,
+      "name": "hdhdhdhd",
+      "avatar": "female",
+      "ref_code": "6Kb5Gm0",
+      "from_ref_code": "0",
+      "coin_balance": 2200,
+      "ruby_balance": 100.0,
+      "gold_key_balance": 96,
+      "lottery_ticket_balance": 99,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

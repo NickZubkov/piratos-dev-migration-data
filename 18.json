@@ -1,0 +1,40 @@
+{
+  "opensuse12@gmail.com": {
+    "user": {
+      "id": 115,
+      "email": "opensuse12@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "jok4r",
+      "avatar": "male",
+      "ref_code": "5Fv4Pz8",
+      "from_ref_code": "0",
+      "coin_balance": 16550,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 3,
+      "lottery_ticket_balance": 5,
+      "days_count": 1,
+      "total_cp": 31,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "shirt",
+        "level": "uncommon",
+        "cp": 18,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

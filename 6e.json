@@ -1,0 +1,78 @@
+{
+  "udkinmihail0@gmail.com": {
+    "user": {
+      "id": 12,
+      "email": "udkinmihail0@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "test_misha",
+      "avatar": "male",
+      "ref_code": "0Cn4Yo9",
+      "from_ref_code": "0",
+      "coin_balance": 98785,
+      "ruby_balance": 0.33333334,
+      "gold_key_balance": 119,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 208,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "sword",
+        "level": "legendary",
+        "cp": 68,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "shirt",
+        "level": "epic",
+        "cp": 27,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "jacket",
+        "level": "legendary",
+        "cp": 62,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "jacket",
+        "level": "common",
+        "cp": 19,
+        "count": 2,
+        "is_equip": false
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 2
+      },
+      {
+        "chest": {
+          "type": "uncommon",
+          "price": 2,
+          "currency": "key"
+        },
+        "count": 2
+      }
+    ],
+    "won_room_ids": []
+  }
+}

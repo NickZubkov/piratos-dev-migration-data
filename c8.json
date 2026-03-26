@@ -1,0 +1,64 @@
+{
+  "device_CFFD685A-1B79-449D-8D04-138A8BADB0AB": {
+    "user": {
+      "id": 65,
+      "email": "guest_CFFD618D04-138A8BADB0AB@piratos.guest",
+      "device_id": "CFFD685A-1B79-449D-8D04-138A8BADB0AB",
+      "is_guest": true,
+      "name": "Guest_CFFD685A",
+      "avatar": "male",
+      "ref_code": "13LAHEDY",
+      "from_ref_code": "0",
+      "coin_balance": 100,
+      "ruby_balance": 1000.0,
+      "gold_key_balance": 197,
+      "lottery_ticket_balance": 99,
+      "days_count": 1,
+      "total_cp": 14,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "111gj@privaterelay.appleid.com": {
+    "user": {
+      "id": 109,
+      "email": "111gj@privaterelay.appleid.com",
+      "device_id": "96E85ED3-AFEC-4C68-8F59-ECEFA7F8E237",
+      "is_guest": false,
+      "name": "Ss",
+      "avatar": "female",
+      "ref_code": "0Ba3Pr9",
+      "from_ref_code": "6Fq2Kj0",
+      "coin_balance": 1200,
+      "ruby_balance": 1000.0,
+      "gold_key_balance": 1000,
+      "lottery_ticket_balance": 998,
+      "days_count": 1,
+      "total_cp": 13,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

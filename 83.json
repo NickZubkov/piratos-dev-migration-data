@@ -1,0 +1,25 @@
+{
+  "test.piratos@gmail.com": {
+    "user": {
+      "id": 4,
+      "email": "test.piratos@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user3275",
+      "avatar": "male",
+      "ref_code": "8Vi7Vn8",
+      "from_ref_code": "0",
+      "coin_balance": 188400,
+      "ruby_balance": 25.0,
+      "gold_key_balance": 94,
+      "lottery_ticket_balance": 2,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

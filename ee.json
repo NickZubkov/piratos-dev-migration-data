@@ -1,0 +1,47 @@
+{
+  "anigma802@gmail.com": {
+    "user": {
+      "id": 2,
+      "email": "anigma802@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user2440",
+      "avatar": "female",
+      "ref_code": "4Kk3Fq7",
+      "from_ref_code": "0Cn4Yo9",
+      "coin_balance": 285,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 1,
+      "lottery_ticket_balance": 4,
+      "days_count": 1,
+      "total_cp": 179,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "jacket",
+        "level": "common",
+        "cp": 19,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "gloves",
+        "level": "common",
+        "cp": 18,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "jacket",
+        "level": "legendary",
+        "cp": 62,
+        "count": 2,
+        "is_equip": true
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

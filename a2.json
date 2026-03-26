@@ -1,0 +1,25 @@
+{
+  "test1@gmail.com": {
+    "user": {
+      "id": 72,
+      "email": "test1@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "333",
+      "avatar": "female",
+      "ref_code": "7Hy2Dn9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

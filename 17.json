@@ -1,0 +1,96 @@
+{
+  "info@piratos.gg": {
+    "user": {
+      "id": 11,
+      "email": "info@piratos.gg",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user4014",
+      "avatar": "female",
+      "ref_code": "0Vc4Ds4",
+      "from_ref_code": "0",
+      "coin_balance": 41240,
+      "ruby_balance": 2535.6,
+      "gold_key_balance": 10,
+      "lottery_ticket_balance": 16,
+      "days_count": 1,
+      "total_cp": 408,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "sword",
+        "level": "common",
+        "cp": 21,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "gloves",
+        "level": "legendary",
+        "cp": 58,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "legendary",
+        "cp": 42,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "headdress",
+        "level": "epic",
+        "cp": 22,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "epic",
+        "cp": 23,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "jacket",
+        "level": "uncommon",
+        "cp": 23,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "sword",
+        "level": "legendary",
+        "cp": 68,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "uncommon",
+        "cp": 16,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

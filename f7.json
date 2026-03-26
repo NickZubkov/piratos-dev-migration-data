@@ -1,0 +1,25 @@
+{
+  "nicktestpiratos69@gmail.com": {
+    "user": {
+      "id": 41,
+      "email": "nicktestpiratos69@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "nick",
+      "avatar": "male",
+      "ref_code": "0Hg5Db7",
+      "from_ref_code": "0",
+      "coin_balance": 700,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

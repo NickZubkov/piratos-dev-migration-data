@@ -1,0 +1,222 @@
+{
+  "muhtov1@gmail.com": {
+    "user": {
+      "id": 13,
+      "email": "muhtov1@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user6313",
+      "avatar": "male",
+      "ref_code": "3Kl3Aw5",
+      "from_ref_code": "0",
+      "coin_balance": 13964,
+      "ruby_balance": 40.166668,
+      "gold_key_balance": 423,
+      "lottery_ticket_balance": 169,
+      "days_count": 1,
+      "total_cp": 1002,
+      "additional_cp": 45,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "shirt",
+        "level": "uncommon",
+        "cp": 18,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "common",
+        "cp": 13,
+        "count": 6,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "legendary",
+        "cp": 42,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "headdress",
+        "level": "common",
+        "cp": 12,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "jacket",
+        "level": "epic",
+        "cp": 34,
+        "count": 3,
+        "is_equip": true
+      },
+      {
+        "type": "shirt",
+        "level": "epic",
+        "cp": 27,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "gloves",
+        "level": "epic",
+        "cp": 32,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "gloves",
+        "level": "legendary",
+        "cp": 58,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "uncommon",
+        "cp": 16,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "legendary",
+        "cp": 42,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 5,
+        "is_equip": true
+      },
+      {
+        "type": "gloves",
+        "level": "common",
+        "cp": 18,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "gloves",
+        "level": "uncommon",
+        "cp": 22,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "sword",
+        "level": "common",
+        "cp": 21,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "jacket",
+        "level": "uncommon",
+        "cp": 23,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "shirt",
+        "level": "common",
+        "cp": 15,
+        "count": 2,
+        "is_equip": false
+      },
+      {
+        "type": "boots",
+        "level": "epic",
+        "cp": 23,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "jacket",
+        "level": "common",
+        "cp": 19,
+        "count": 4,
+        "is_equip": false
+      },
+      {
+        "type": "sword",
+        "level": "legendary",
+        "cp": 68,
+        "count": 2,
+        "is_equip": true
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 29
+      },
+      {
+        "chest": {
+          "type": "epic",
+          "price": 5,
+          "currency": "key"
+        },
+        "count": 6
+      },
+      {
+        "chest": {
+          "type": "uncommon",
+          "price": 2,
+          "currency": "key"
+        },
+        "count": 18
+      }
+    ],
+    "won_room_ids": []
+  },
+  "piratosmobile@piratos.gg": {
+    "user": {
+      "id": 9,
+      "email": "piratosmobile@piratos.gg",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user9772",
+      "avatar": "male",
+      "ref_code": "5Lm7Nq5",
+      "from_ref_code": "1Qa1Mk2",
+      "coin_balance": 10296,
+      "ruby_balance": 1000.0,
+      "gold_key_balance": 100,
+      "lottery_ticket_balance": 100,
+      "days_count": 1,
+      "total_cp": 21,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "sword",
+        "level": "common",
+        "cp": 21,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

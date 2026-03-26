@@ -1,0 +1,25 @@
+{
+  "laimer95@bk.ru": {
+    "user": {
+      "id": 35,
+      "email": "laimer95@bk.ru",
+      "device_id": "",
+      "is_guest": false,
+      "name": "ENazarov",
+      "avatar": "male",
+      "ref_code": "5Ys7Xs9",
+      "from_ref_code": "0",
+      "coin_balance": 30,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

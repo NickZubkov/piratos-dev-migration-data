@@ -1,0 +1,72 @@
+{
+  "corund1976@gmail.com": {
+    "user": {
+      "id": 25,
+      "email": "corund1976@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user2462",
+      "avatar": "male",
+      "ref_code": "5No6Nw2",
+      "from_ref_code": "0",
+      "coin_balance": 32500,
+      "ruby_balance": 150.0,
+      "gold_key_balance": 2985,
+      "lottery_ticket_balance": 1000,
+      "days_count": 1,
+      "total_cp": 61,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "sword",
+        "level": "epic",
+        "cp": 38,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "jacket",
+        "level": "uncommon",
+        "cp": 23,
+        "count": 1,
+        "is_equip": true
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "uncommon",
+          "price": 2,
+          "currency": "key"
+        },
+        "count": 1
+      }
+    ],
+    "won_room_ids": []
+  },
+  "amaterasu.dzen@gmail.com": {
+    "user": {
+      "id": 10,
+      "email": "amaterasu.dzen@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "Stas97",
+      "avatar": "female",
+      "ref_code": "4Gf0Iq6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

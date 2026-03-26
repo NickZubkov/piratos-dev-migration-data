@@ -1,0 +1,33 @@
+{
+  "13231321312j@privaterelay.appleid.com": {
+    "user": {
+      "id": 111,
+      "email": "13231321312j@privaterelay.appleid.com",
+      "device_id": "A0EBF4BB-EB17-4952-8E05-11305A263C9E",
+      "is_guest": false,
+      "name": "Sa",
+      "avatar": "female",
+      "ref_code": "1Nn0Su8",
+      "from_ref_code": "6Fq2Kj0",
+      "coin_balance": 2500,
+      "ruby_balance": 100.0,
+      "gold_key_balance": 101,
+      "lottery_ticket_balance": 96,
+      "days_count": 1,
+      "total_cp": 14,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "uncommon",
+        "cp": 14,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

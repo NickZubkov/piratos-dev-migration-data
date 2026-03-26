@@ -1,0 +1,25 @@
+{
+  "admin@piratos.gg": {
+    "user": {
+      "id": 1,
+      "email": "admin@piratos.gg",
+      "device_id": "",
+      "is_guest": false,
+      "name": "",
+      "avatar": "male",
+      "ref_code": "0",
+      "from_ref_code": "0",
+      "coin_balance": 1000,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

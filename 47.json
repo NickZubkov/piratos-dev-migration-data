@@ -1,0 +1,87 @@
+{
+  "muhtov@gmail.com": {
+    "user": {
+      "id": 114,
+      "email": "muhtov@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "gy",
+      "avatar": "female",
+      "ref_code": "9Vr7Hi1",
+      "from_ref_code": "0",
+      "coin_balance": 25000,
+      "ruby_balance": 3251.0,
+      "gold_key_balance": 59,
+      "lottery_ticket_balance": 94,
+      "days_count": 1,
+      "total_cp": 144,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "jacket",
+        "level": "legendary",
+        "cp": 62,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "trousers",
+        "level": "epic",
+        "cp": 23,
+        "count": 2,
+        "is_equip": true
+      },
+      {
+        "type": "boots",
+        "level": "epic",
+        "cp": 23,
+        "count": 1,
+        "is_equip": true
+      },
+      {
+        "type": "boots",
+        "level": "common",
+        "cp": 13,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "epic",
+          "price": 5,
+          "currency": "key"
+        },
+        "count": 3
+      },
+      {
+        "chest": {
+          "type": "legendary",
+          "price": 10,
+          "currency": "key"
+        },
+        "count": 2
+      },
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      },
+      {
+        "chest": {
+          "type": "uncommon",
+          "price": 2,
+          "currency": "key"
+        },
+        "count": 6
+      }
+    ],
+    "won_room_ids": []
+  }
+}

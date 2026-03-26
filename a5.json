@@ -1,0 +1,25 @@
+{
+  "device_40224FCE-CC81-4A80-A857-84DC566545A7": {
+    "user": {
+      "id": 69,
+      "email": "guest_4A857-8545A7@piratos.guest",
+      "device_id": "40224FCE-CC81-4A80-A857-84DC566545A7",
+      "is_guest": true,
+      "name": "Guest_40224FCE",
+      "avatar": "male",
+      "ref_code": "1UV2T4C6",
+      "from_ref_code": "0",
+      "coin_balance": 100,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}

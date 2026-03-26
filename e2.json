@@ -1,0 +1,42 @@
+{
+  "arteom.yurash@gmail.com": {
+    "user": {
+      "id": 7,
+      "email": "arteom.yurash@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "user8891",
+      "avatar": "male",
+      "ref_code": "4Gj9Me4",
+      "from_ref_code": "0",
+      "coin_balance": 550,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 1,
+      "days_count": 1,
+      "total_cp": 22,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "epic",
+        "cp": 22,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 1
+      }
+    ],
+    "won_room_ids": []
+  }
+}

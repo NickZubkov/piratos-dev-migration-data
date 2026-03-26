@@ -1,0 +1,56 @@
+{
+  "karina406it@gmail.com": {
+    "user": {
+      "id": 8,
+      "email": "karina406it@gmail.com",
+      "device_id": "",
+      "is_guest": false,
+      "name": "kari",
+      "avatar": "female",
+      "ref_code": "1Qa1Mk2",
+      "from_ref_code": "0",
+      "coin_balance": 868060,
+      "ruby_balance": 20690.0,
+      "gold_key_balance": 8,
+      "lottery_ticket_balance": 11,
+      "days_count": 1,
+      "total_cp": 110,
+      "additional_cp": 0,
+      "max_total_cp": 1349
+    },
+    "inventory": [
+      {
+        "type": "jacket",
+        "level": "legendary",
+        "cp": 62,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "sword",
+        "level": "uncommon",
+        "cp": 25,
+        "count": 1,
+        "is_equip": false
+      },
+      {
+        "type": "trousers",
+        "level": "epic",
+        "cp": 23,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [
+      {
+        "chest": {
+          "type": "common",
+          "price": 15000,
+          "currency": "coin"
+        },
+        "count": 2
+      }
+    ],
+    "won_room_ids": []
+  }
+}
